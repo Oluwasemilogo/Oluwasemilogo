@@ -7,6 +7,7 @@ I'm a Budding Frontend Engineer, and a computer science and Engineering. I'm pas
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
+-  How to Reach me:https://twitter.com/_logoh
 - 💡 Fun fact: I'm currently studying Frontend Engineering, at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs at the moment.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
